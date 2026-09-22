@@ -1,0 +1,25 @@
+# InstiSupply
+
+> InstiSupply is a Dubai-based institutional supplies business serving organisations across the United Arab Emirates.
+
+InstiSupply provides recurring B2B and institutional supply support across six core categories: stationery and paper; printer and IT consumables; hygiene and tissue; cleaning and janitorial supplies; pantry and disposables; and PPE and safety supplies.
+
+The business serves schools and universities, hospitals and clinics, corporate offices, facilities-management companies, factories and worksites across the UAE. Product brands, specifications, quantities, availability, pricing and delivery terms are confirmed through quotation.
+
+## Key pages
+- Home: https://instisupply.com/
+- Product catalogue: https://instisupply.com/catalog.html
+- Privacy policy: https://instisupply.com/privacy.html
+- Website terms: https://instisupply.com/terms.html
+
+## Contact
+- Sales: sales@instisupply.com
+- Location: Dubai, United Arab Emirates
+
+## Product categories
+- Stationery & Paper
+- Printer & IT Consumables
+- Hygiene & Tissue
+- Cleaning & Janitorial
+- Pantry & Disposables
+- PPE & Safety
