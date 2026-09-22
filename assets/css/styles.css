@@ -224,3 +224,10 @@ body.modal-open{overflow:hidden}
 .form-modal-card h2{margin:0 0 10px;color:#07356e;font-size:25px}
 .form-modal-card p{margin:0 0 24px;color:#61758a;line-height:1.6}
 .form-modal-card .btn{min-width:120px}
+
+
+/* SEO category landing pages: lightweight extensions of the existing visual system. */
+.breadcrumbs{padding:14px 0 0;font-size:11px;color:#6b7d90}.breadcrumbs a{color:var(--navy);font-weight:700}.breadcrumbs span{margin:0 7px;color:#9aa8b5}
+.category-landing-intro{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:center}.category-landing-intro img{width:100%;border-radius:14px;display:block;box-shadow:0 12px 30px rgba(6,46,107,.08)}
+.category-landing-copy p{color:#61758a;line-height:1.7;margin:0 0 18px}.category-landing-actions{display:flex;gap:10px;flex-wrap:wrap}.category-products-note{margin-top:28px;padding:22px 24px;border:1px solid #dfe8f1;border-radius:12px;background:#f7fafc}.category-products-note p{margin:6px 0 0;color:#61758a}
+@media(max-width:800px){.category-landing-intro{grid-template-columns:1fr}.category-landing-intro img{order:-1}}

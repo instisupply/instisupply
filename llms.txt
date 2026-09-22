@@ -2,24 +2,23 @@
 
 > InstiSupply is a Dubai-based institutional supplies business serving organisations across the United Arab Emirates.
 
-InstiSupply provides recurring B2B and institutional supply support across six core categories: stationery and paper; printer and IT consumables; hygiene and tissue; cleaning and janitorial supplies; pantry and disposables; and PPE and safety supplies.
+## Core product categories
+- Stationery & Paper: https://instisupply.com/stationery-paper.html
+- Printer & IT Consumables: https://instisupply.com/printer-it-consumables.html
+- Hygiene & Tissue: https://instisupply.com/hygiene-tissue.html
+- Cleaning & Janitorial: https://instisupply.com/cleaning-janitorial.html
+- Pantry & Disposables: https://instisupply.com/pantry-disposables.html
+- PPE & Safety: https://instisupply.com/ppe-safety.html
 
-The business serves schools and universities, hospitals and clinics, corporate offices, facilities-management companies, factories and worksites across the UAE. Product brands, specifications, quantities, availability, pricing and delivery terms are confirmed through quotation.
-
-## Key pages
+## Primary pages
 - Home: https://instisupply.com/
-- Product catalogue: https://instisupply.com/catalog.html
-- Privacy policy: https://instisupply.com/privacy.html
-- Website terms: https://instisupply.com/terms.html
+- Catalogue: https://instisupply.com/catalog.html
+- Privacy: https://instisupply.com/privacy.html
+- Terms: https://instisupply.com/terms.html
+
+## Business context
+InstiSupply serves institutional and B2B buyers including education, healthcare, corporate offices, facilities management and industrial/worksite environments in the UAE. Product brands, pack sizes, specifications, availability, pricing and delivery terms are confirmed at quotation stage.
 
 ## Contact
-- Sales: sales@instisupply.com
-- Location: Dubai, United Arab Emirates
-
-## Product categories
-- Stationery & Paper
-- Printer & IT Consumables
-- Hygiene & Tissue
-- Cleaning & Janitorial
-- Pantry & Disposables
-- PPE & Safety
+Sales enquiries and RFQs: sales@instisupply.com
+Website: https://instisupply.com/
