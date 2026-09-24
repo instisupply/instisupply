@@ -9,7 +9,7 @@ window.INSTISUPPLY_CONFIG = {
   mapQuery: "Dubai, United Arab Emirates",
 
   social: {
-    linkedin: "https://www.linkedin.com/company/instisupply/about/",
+    linkedin: "https://www.linkedin.com/company/instisupply/",
     instagram: "",
     facebook: "",
     twitter: "",
