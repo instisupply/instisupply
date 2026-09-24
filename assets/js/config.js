@@ -10,9 +10,9 @@ window.INSTISUPPLY_CONFIG = {
 
   social: {
     linkedin: "https://www.linkedin.com/company/instisupply/",
-    instagram: "",
-    facebook: "",
-    twitter: "",
+    instagram: "https://www.instagram.com/instisupply/",
+    facebook: "https://www.facebook.com/instisupply",
+    twitter: "https://x.com/instisupply",
     whatsapp: ""
   }
 };
