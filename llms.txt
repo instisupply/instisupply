@@ -1,8 +1,9 @@
 # InstiSupply
 
-> InstiSupply is a Dubai-based institutional supplies business serving organisations across the United Arab Emirates.
+> InstiSupply is a Dubai-based B2B institutional supplies business serving businesses and organisations across the United Arab Emirates.
 
 ## Core product categories
+
 - Stationery & Paper: https://instisupply.com/stationery-paper.html
 - Printer & IT Consumables: https://instisupply.com/printer-it-consumables.html
 - Hygiene & Tissue: https://instisupply.com/hygiene-tissue.html
@@ -12,16 +13,25 @@
 - Food Packaging Supplies: https://instisupply.com/food-packaging-supplies.html
 
 ## Primary pages
+
 - Home: https://instisupply.com/
-- Catalogue: https://instisupply.com/catalog.html
-- Privacy: https://instisupply.com/privacy.html
-- Terms: https://instisupply.com/terms.html
+- Product Catalogue: https://instisupply.com/catalog.html
+- Frequently Asked Questions: https://instisupply.com/#faq
 
 ## Business context
-InstiSupply serves institutional and B2B buyers including education, healthcare, corporate offices, facilities management, industrial/worksite environments, supermarkets, grocery retail and food-service operations in the UAE. Product brands, pack sizes, specifications, availability, pricing and delivery terms are confirmed at quotation stage.
+
+InstiSupply serves institutional and B2B buyers across the UAE, including schools and universities, hospitals and clinics, corporate offices, hotels, restaurants and cafeterias (HORECA), facilities management companies, industrial organisations and worksites, supermarkets, grocery stores and food-service businesses.
+
+Product brands, pack sizes, specifications, availability, pricing and delivery terms are confirmed at quotation stage.
+
+InstiSupply can quote against customer RFQs and existing product lists. Scheduled or call-off supply for recurring requirements can be discussed based on volumes, commercial terms and delivery locations.
+
+## Service area
+
+- Based in: Dubai, United Arab Emirates
+- Service area: United Arab Emirates
 
 ## Contact
-Sales enquiries and RFQs: sales@instisupply.com
-Website: https://instisupply.com/
 
-Industries served also include Hospitality / HORECA: hotels, restaurants and cafeterias across the UAE.
+- Sales enquiries and RFQs: sales@instisupply.com
+- Website: https://instisupply.com/
